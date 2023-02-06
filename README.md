@@ -1,2 +1,1 @@
-# PrepCourse def
-La segunda es la vencida
+Este proyecto es el segundo intento de que me salga bien
